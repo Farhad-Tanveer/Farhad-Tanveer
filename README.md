@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Farhad Tanveer</h1>
 <h3 align="center">I'm a front-end developer who knows HTML, CSS, and JavaScript, as well as React. I work with designers to develop visually appealing and user-friendly websites. I'm committed to keeping up to date on the latest front-end development trends and best practices, and I enjoy taking on difficult coding challenges.</h3>
 
-- 🔭 I’m currently working on **React JS**
 
 - 🌱 I’m currently learning **React, Next.js**
 
